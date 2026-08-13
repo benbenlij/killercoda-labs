@@ -1,6 +1,6 @@
 {
     "title": "Lab 1: Navigating the File System",
-    "descryption": "Learn essential Linux commands",
+    "description": "Learn essential Linux commands",
     "details": {
         "intro": {
             "text": "intro.md"

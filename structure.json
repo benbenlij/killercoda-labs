@@ -2,7 +2,7 @@
   "scenarios": [
     {
       "dir": "labs/lab-1",
-      "title": "Lab 1: Basic File Navigation & Permissions"
+      "title": "Lab 1: Navigating the File System"
     }
   ]
 }
