@@ -1,0 +1,21 @@
+{
+    "title": "Lab 1: Navigating the File System",
+    "descryption": "Learn essential Linux commands",
+    "details": {
+        "intro": {
+            "text": "intro.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    },
+    "assets": {
+        "host01": [
+            {
+                "file": "setup.sh",
+                "target": "/root/",
+                "chmod": "+x"
+            }
+        ]
+    }
+}
