@@ -1,7 +1,7 @@
 {
   "scenarios": [
     {
-      "dir": "labs/lab-1",
+      "dir": "lab-1",
       "title": "Lab 1: Navigating the File System"
     }
   ]
