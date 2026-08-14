@@ -4,7 +4,8 @@
     "intro_button_text": "Finish",
     "details": {
         "intro": {
-            "text": "intro.md"
+            "text": "intro.md",
+            "background": "setup.sh"
         },
         "steps": [
             {
@@ -14,11 +15,6 @@
         "finish": {
             "text": "finish.md"
         }
-    },
-    "assets": {
-        "host01": [
-            {"file": "setup.sh", "target": "/root", "chmod": "+x"}
-        ]
     },
     "backend": {
         "imageid": "ubuntu"
