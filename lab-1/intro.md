@@ -16,4 +16,4 @@ Your objectives are to answer the forensics questions below:
 
 Note your answers on a piece of paper or on a document. When you're done, check with the answer key! 
 
-Good luck, investigator!
+Good luck, investigator! Your password is `password`
