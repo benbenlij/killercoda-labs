@@ -4,6 +4,14 @@
     "details": {
         "intro": {
             "text": "intro.md"
+        },
+        "steps": [
+            {
+            "text": "step1.md"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
         }
     },
     "assets": {
