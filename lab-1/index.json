@@ -1,6 +1,7 @@
 {
     "title": "Lab 1: Navigating the File System",
     "description": "Learn essential Linux commands",
+    "intro_button_text": "Finish",
     "details": {
         "intro": {
             "text": "intro.md"

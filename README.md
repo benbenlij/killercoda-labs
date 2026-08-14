@@ -9,8 +9,4 @@ These learning labs are hosted by Killercoda
 
 # How to Start
 - Create a Killercoda account (if you don't have one)
-- Click the link to start practicing!
-    - [link here]
-
-# Answer Keys!
-[link here]
+- Click this [link](https://killercoda.com/benbenlij) to start practicing!
