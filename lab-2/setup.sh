@@ -24,4 +24,4 @@ echo "This is critical information" > 'critical_info.txt'
 
 
 # Set user to investigator instead of root
-echo "su - investigator" >> /root/.bashrc
+su - investigator
