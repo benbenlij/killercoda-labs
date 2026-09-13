@@ -21,3 +21,6 @@ mkdir '/home/investigator/quarantine'
 mkdir '/home/investigator/Downloads'
 touch '/home/investigator/Downloads/download.zip'
 echo "This is critical information" > '/home/investigator/critical_info.txt'
+
+# Signal to foreground script that script is completed
+echo done > /tmp/setup0
