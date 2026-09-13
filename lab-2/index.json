@@ -1,0 +1,33 @@
+{
+    "title": "Lab 2: Reading and Writing Files",
+    "description": "Learn how to create, write, or edit files",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "background": "setup.sh"
+        },
+        "steps": [
+            {
+            "title": "Practice cat and nano",
+            "text": "step1/step1.md",
+            "verify": "step1/verify.sh"
+            },
+            {
+            "title": "Practice touch, echo, and rm",
+            "text": "step2/step2.md",
+            "verify": "step2/verify.sh"
+            },
+            {
+            "title": "Practice cp and mv",
+            "text": "step3/step3.md",
+            "verify": "step3/verify.sh"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
