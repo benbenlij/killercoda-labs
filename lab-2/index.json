@@ -4,6 +4,7 @@
     "details": {
         "intro": {
             "text": "intro.md",
+            "foreground": "switch_user.sh",       
             "background": "setup.sh"
         },
         "steps": [

@@ -20,8 +20,4 @@ touch '/home/investigator/unauthorized_image.jpg'
 mkdir '/home/investigator/quarantine'
 mkdir '/home/investigator/Downloads'
 touch '/home/investigator/Downloads/download.zip'
-echo "This is critical information" > 'critical_info.txt'
-
-
-# Set user to investigator instead of root
-su - investigator
+echo "This is critical information" > '/home/investigator/critical_info.txt'
