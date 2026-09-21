@@ -7,3 +7,5 @@ Just like in a Cyberpatriot competition, the first thing you should do is read t
 Then, read /etc/passwd to see what users are in the system.
 
 Add and remove users to comply with the README.
+
+*Don't worry about the ubuntu user for now.

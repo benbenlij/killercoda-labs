@@ -1,6 +1,6 @@
 # Objective 3
 
-Check the sudo group in /etc/group. On some systems the admin group must be checked too.
+Check the sudo group in /etc/group. For simplicity, do not worry about the adm group.
 
 Compare what you see with the README.
 

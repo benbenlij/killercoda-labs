@@ -1,4 +1,4 @@
-# Congratiulations
+# Congratulations
 
 Good job! In a real Cyberpatriot competition, you would score many points!
 
