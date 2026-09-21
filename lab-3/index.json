@@ -1,0 +1,34 @@
+{
+    "title": "Lab 3: Basic User Auditing",
+    "description": "Enforce strong passwords and manage system users",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "foreground": "switch_user.sh",      
+            "background": "setup.sh"
+        },
+        "steps": [
+            {
+            "title": "Adding and Removing Users",
+            "text": "step1/step1.md",
+            "verify": "step1/verify.sh"
+            },
+            {
+            "title": "Changing UIDs and Passwords",
+            "text": "step2/step2.md",
+            "verify": "step2/verify.sh"
+            },
+            {
+            "title": "Managing Groups",
+            "text": "step3/step3.md",
+            "verify": "step3/verify.sh"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
