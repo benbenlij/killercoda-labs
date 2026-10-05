@@ -13,6 +13,8 @@ echo "john:123456" | chpasswd
 echo "catherine:cyberissotuff" | chpasswd
 echo "verity:V3r!tYh@ha" | chpasswd
 
+sudo usermod -aG sudo investigator
+
 # Store bad password hashes
 awk -F: '$1=="john" {print $1":"$2}' /etc/shadow > /var/tmp/.bad-hashes
 awk -F: '$1=="catherine" {print $1":"$2}' /etc/shadow >> /var/tmp/.bad-hashes
