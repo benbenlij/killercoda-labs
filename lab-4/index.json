@@ -1,0 +1,39 @@
+{
+    "title": "Lab 4: Complying With the README",
+    "description": "Learn general policies that must be enforced",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "foreground": "switch_user.sh",      
+            "background": "setup.sh"
+        },
+        "steps": [
+            {
+            "title": "Removing unauthorized media files",
+            "text": "step1/step1.md",
+            "verify": "step1/verify.sh"
+            },
+            {
+            "title": "Uninstalling hacking tools",
+            "text": "step2/step2.md",
+            "verify": "step2/verify.sh"
+            },
+            {
+            "title": "Password protection",
+            "text": "step3/step3.md",
+            "verify": "step3/verify.sh"
+            },
+            {
+            "title": "More practice with find",
+            "text": "step4/step4.md",
+            "verify": "step4/verify.sh"
+            }
+        ],
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
